@@ -9,8 +9,7 @@ import java.util.Arrays;
 import java.util.Properties;
 
 /**
- * GrowingIO realtime-export demo 这就是上面你们发来的。
- *
+ * GrowingIO realtime-export demo
  */
 public class JavaDemo {
 
